@@ -1,0 +1,31 @@
+baseURL = "https://auswanderer-geschichten.github.io/"
+languageCode = "de-ch"
+title = "auswanderer-geschichten"
+theme = "koller"
+sectionPagesMenu = "menu"
+DefaultContentLanguage = "de"
+MetaDataFormat = "toml"
+footnoteReturnLinkContents = "↩"
+
+[params]
+    ShortDateFmt = "02.01.2006"
+    LongDateFmt = "2. January, 2006"
+    SectionSort = "asc"
+    Copyright = "2021 Gerold Koller"
+    PrevLabel = "← zurück"
+    NextLabel = "vor →"
+    IndexLabel = "Index"
+    AttributionLabel = "Quelle"
+
+[outputs]
+    home = ["HTML", "JSON"]
+
+[markup.goldmark.renderer]
+    unsafe= true
+
+# [menu]
+#     [[menu.main]]
+#         identifier = "about"
+#         name       = "Info"
+#         url        = "/about"
+#         weight     = 0
