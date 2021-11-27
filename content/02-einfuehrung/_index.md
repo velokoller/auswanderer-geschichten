@@ -4,8 +4,6 @@ date = 2021-04-16
 weight = 2
 +++
 
-{{< h3 >}}Einführung{{< /h3 >}}
-
 *«Bevor ich hier mit dem Bau einer Wasserfuhr meine Kräfte verlungere, ziehe ich eher nach Neu-Kalifornien. Ich habe dort bereits einen Onkel, welcher mir schon längst geschrieben hat, dass die ganze Gemeinde hinüberkommen könne. Der Boden ist dort billiger und fruchtbarer als hier, die Arbeit weniger hart und das Leben leichter. Es ist darum unnütz, das Geld hier in den Felsen zu vergraben.»*
 
 *«Du würdest also wirklich nach Amerika ziehen wollen?», fragt Kathri in tiefster Bestürzung, «auch wenn ich hier bliebe?»*

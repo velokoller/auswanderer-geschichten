@@ -1,10 +1,9 @@
 +++
-title = "Kräuterdoktor"
+title = "Ich bin Argentinier und Argentinien ist mein Vatterland, aber wenn es einmal an das Sterben kommt, ..."
+navTitle = "Kräuterdoktor"
 date = 2021-07-04
 weight = 6
 +++
-
-{{< h3 >}}Ich bin Argentinier und Argentinien ist mein Vatterland, aber wenn es einmal an das Sterben kommt, ...{{< /h3 >}}
 
 **Zur Geschichte des Kräuterdoktors Christian Tscherry und seines Verwalters Julio Falcini**
 

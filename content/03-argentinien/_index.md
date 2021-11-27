@@ -1,11 +1,10 @@
 +++
-title = "Argentinien"
+title = "Argentinien, das Hauptzielland der Oberwalliser Emigranten"
+navTitle = "Argentinien"
 date = 2021-05-01
 slug = "argentinien"
 weight = 3
 +++
-
-{{< h3 >}}Argentinien, das Hauptzielland der Oberwalliser Emigranten{{< /h3 >}}
 
 In den Briefen von Leuten, die sich zu emigrieren entschlossen oder bereits emigriert waren, aber auch in den im Walliser Gebliebenen war durchwegs pauschal von «Amerika» die Rede, ob es sich nun um Südamerika oder Nordamerika handelte. Tatsächlich waren die Zielländer meist Argentinien und US-Amerika. Gelten die Vereinigten Staaten seit ihrer Gründung als Emigrationsland par excellence, so ist das Wissen über das Einwanderungsland Argentinien in der Regel bescheiden. Darum sollen hier einige Informationen über das südamerikanische Land folgen.
 

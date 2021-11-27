@@ -1,9 +1,8 @@
 +++
-title = "Walliser Auswanderung"
+title = "Die Walliser Auswanderung ab der zweiten Hälfte des 19. Jhs."
+navTitle = "Walliser Auswanderung"
 weight = 1
 +++
-
-{{< h3 class="mv0" >}}Die Walliser Auswanderung ab der zweiten Hälfte des 19. Jhs.{{< /h3>}}
 
 **Vorwort**
 
