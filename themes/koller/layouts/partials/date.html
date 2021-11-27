@@ -1,3 +1,0 @@
-{{ $month_names := slice "Januar" "Februar" "März" "April" "Mai" "Juni" "Juli" "August" "September" "Oktober" "November" "Dezember" }}
-{{ $month := sub .Date.Month 1 }}
-{{ .Date.Day }}. {{ index $month_names $month }} {{ .Date.Year }}
