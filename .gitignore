@@ -6,6 +6,7 @@ scrape
 ### Hugo ###
 # Hugo binary
 hugo*
+.hugo_build.lock
 
 # Generated files at default location
 /public
