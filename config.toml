@@ -1,4 +1,4 @@
-baseURL = "https://auswanderer-geschichten.github.io/"
+baseURL = "https://velokoller.github.io/auswanderer-geschichten"
 languageCode = "de-ch"
 title = "auswanderer-geschichten"
 theme = "koller"
@@ -6,6 +6,7 @@ sectionPagesMenu = "menu"
 DefaultContentLanguage = "de"
 MetaDataFormat = "toml"
 footnoteReturnLinkContents = "↩"
+publishDir = "docs"
 
 [params]
     ShortDateFmt = "02.01.2006"
