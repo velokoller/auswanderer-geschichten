@@ -22,7 +22,7 @@ publishDir = "docs"
     home = ["HTML", "JSON"]
 
 [markup.goldmark.renderer]
-    unsafe= true
+    unsafe=true
 
 # [menu]
 #     [[menu.main]]
