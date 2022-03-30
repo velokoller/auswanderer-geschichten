@@ -1,4 +1,4 @@
-baseURL = "https://velokoller.github.io/auswanderer-geschichten"
+baseURL = "https://auswanderer-geschichten.ch"
 languageCode = "de-ch"
 title = "auswanderer-geschichten"
 theme = "koller"
