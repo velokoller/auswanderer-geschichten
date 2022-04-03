@@ -24,6 +24,8 @@ Die hier zitierte Textpassage stammt aus der Novelle «Verschüttete Quellen» d
 
 Die eigentliche Wassernot und die entsprechend geringeren Ernteerträge verschärften die soziale Not. Dazu kamen verschiedene Unwetterkatastrophen, besonders die Überschwemmungen durch die Rhone und ihre Seitenbäche in den Jahren 1860 und 1868 und auch extreme Winterkälte und Frühjahrs-Bodenfröste, die die Vorräte in den Kellern gefrieren liess und denen danach kümmerliche Kartoffel- und Getreideernten folgten.
 
+{{< figure src="images/IMG_1203.jpg" caption="Wer Glück hatte, fand Arbeit bei der Rhonekorrektur, die 1863 begann. (Illustration von Rafael Ritz.) (Quelle: Gisela Macieczyk-Theler, Buenos Aires.)" >}}
+
 Zu all dem hinzu kam das ab 1850 einsetzende Bevölkerungswachstum. Da die Wasserknappheit die Ausdehnung der Anbauflächen verunmöglichte, war zu wenig Nahrung für die Selbstversorger da.
 
 Im Unterschied zu anderen Kantonen existierte im Wallis kaum Gewerbe und schon gar keine Industrie, die die unterbeschäftigten Leute hätten aufnehmen können. Das lag insbesondere daran, dass die bergbäuerliche Bevölkerung ihre Identität vom Stand als Burger und Grundbesitzer herleitete, so dass ein Ausweichen in andere Berufe als sozialer Abstieg galt. Es gab durchaus Gemeinden, aus denen jungen Männer auszogen, um anderswo als Schreiner oder Maurer den Lebensunterhalt zu verdienen, aber das waren Ausnahmen. Klaus Anderegg erklärt denn auch, weshalb die einsetzende Emigration nicht innovativ war. Die Auswanderer hielten nicht Ausschau nach neuen Erwerbsmöglichkeiten, sondern ausschliesslich nach Land, wo sie wiederum der gewohnten Arbeit nachgehen konnten.
