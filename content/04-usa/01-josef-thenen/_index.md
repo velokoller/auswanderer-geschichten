@@ -194,7 +194,7 @@ Im Jahr 1916 schreibt Thenen seinem Bruder nur zwei Briefe. Der erste vom März 
 
 {{% /letter %}}
 
-Ob die Ankündigung einer Geldüberweisung absichtlich in diesem Kontext steht, sei dahingestellt. In der Folge werden die Anfragen und Bitten drängender. Am 12. Dezember 1917 kommt er schon nach dem 2. Satz (mit den guten Wünschen fürs neue Jahr) zum Thema:
+<span id="thenen-brief">Ob die Ankündigung einer Geldüberweisung absichtlich in diesem Kontext steht, sei dahingestellt. In der Folge werden die Anfragen und Bitten drängender. Am 12. Dezember 1917 kommt er schon nach dem 2. Satz (mit den guten Wünschen fürs neue Jahr) zum Thema:</span>
 
 {{% letter %}}
 

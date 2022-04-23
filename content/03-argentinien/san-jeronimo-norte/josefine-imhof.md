@@ -176,7 +176,7 @@ Noch etwas anderes wirft Fragen auf: Wir wissen von Maria Perren, dass in Argent
 
 Übers Ganze gesehen, muss man feststellen, dass Schallbetter bezüglich der Überweisung des Erbes das alleinige Hindernis ist. Mit dem Brief will er Zeit gewinnen, um mit dem Geld weiterhin Zins zu generieren. Um Misstrauen zu vermeiden, präsentiert er sich als Garant, was er mit dem Vorschlag untermauert, bei Serafin Imhof den Schuldschein zu hinterlegen.
 
-**Josefine Imhof und Franz Schallbetter**
+### Josefine Imhof und Franz Schallbetter {#josefine-imhof-1925-04-14}
 
 Bis zum April 1925 liegen zum eben ausgeführten Sachverhalt keine weiteren Briefdokumente vor. Das nächste Schreiben an Pfarrer Mathier stammt von Josefine Imhof, der Schwägerin von Maria Perren und Ehefrau des eben genannten Serafin Imhof. Im selben Jahr folgen weitere Briefe von ihr. Ihr erstes Schreiben präsentiere ich hier im ganzen Wortlaut:
 
