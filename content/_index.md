@@ -24,4 +24,15 @@ Allen Leserinnen und Lesern wünsche ich eine fesselnde Lektüre.
  
 Über die erwähnte Argentinienreise gibt es einen Blog unter: <a href="https://vueltaargentina.blogspot.com" target="_blank">vueltaargentina.blogspot.com</a> 
 
+**Danksagung**
+
+Ich danke Klaus Anderegg, der mich nicht nur mit dem Thema vertraut gemacht, sondern mir auch zahllose Dokumente, v.a. Briefe, anvertraut hat. Viele seiner grundlegenden historischen Erkenntnisse konnte ich für die Einführungskapitel verwenden.
+
+Mein spezieller Dank gehört meiner Frau Margrit und unserem Sohn Zeno. Margrit hat mir beim Transkribieren besonders schwieriger Stellen oftmals weitergeholfen, und als kritische Erstleserin regelmässig Vorschläge gemacht, aber auch fehlerhafte Formulierungen entdeckt.
+Und ohne Zeno Koller gäbe es diese Website nicht. Er hat alles eingerichtet, Texte und Bilder gelayoutet. Und er bringt immer wieder die Geduld auf, wenn ich ihn um die eine und andere Korrektur oder Änderung bitte!
+
+Marcel Brücker, dem langjährigen Freund, danke ich, dass er uns den passenden Domainnamen gesichert hat.
+
+Schliesslich danke ich auch allen nicht namentlich aufgeführten Personen, die in verschiedener Weise zu diesem Projekt beigetragen haben. Ein Dankeschön auch an Michel Theler, den Urenkel des Auswanderer-Ehepaars Theler-Salzgeber. Er hat uns im Frühjahr 2022 den Kontakt zu seiner Grosstante Gisela (Gisi) Macieczyk-Theler in Buenos Aires vermittelt. Ihr gebührt besonderer Dank, hat sie mir doch nicht nur eine Fülle von Originalfotos überlassen, sondern via Skype wertvolle Informationen vermittelt. Diese sowie ihre eigene Lebensgeschichte «Memoria viva» ermöglichen es, nächstens die am umfassendsten dokumentierte Auswanderergeschichte bis in die Gegenwart fortzuerzählen. Die Kommunikation mit ihr ist für mich und meine Frau eine Freude!  
+
 Merenschwand, im April 2022  
