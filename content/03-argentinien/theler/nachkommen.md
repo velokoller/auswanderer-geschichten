@@ -128,7 +128,7 @@ Hans Theler legte grossen Wert auf Seriosität. In einem Beitrag zum 100-jährig
 
 {{< figure src="../images/image26.jpeg" caption="Hans Theler mit dem Vater, der Schwester Neni und dem ältesten Sohn Juan Ramon um 1950." >}}
 
-{{< figure src="../images/image27.jpeg" caption="Hans Theler, 1985." >}}
+{{< figure src="../images/image27.jpeg" caption="Luftaufnahme mit dem Rio Paraná und der abgeholzten und wiederaufgeforsteten Waldfläche (erworben von Hans Theler, heute im Besitz eines von dessen Enkel Michael geleiteten Unternehmens)." >}}
 
 Der Landbesitz seiner Eltern in Cuña-Pirú wurde 1960 von Schwester Regina und ihrem Mann Jakob verkauft. Ein Jahrzehnt später investierte Hans Theler nun jedoch selbst Geld in Misiones; er kaufte am Rio Paraná 1200 Hektaren Wald -- umgerechnet eine Fläche von 12 Quadratkilometern! Die Beweggründe sind nicht bekannt; es dürfte sich um eine Kapitalanlage gehandelt haben. Da der Wald reich an wertvollen Hölzern war, rechnete er wohl zumindest mittelfristig mit Ertrag. Die Verwaltung (Waldpflege bzw. -bewirtschaftung umfassend) übergab er gegen Entschädigung jemandem aus der Nachkommenschaft der Thelers. Selbst war er nur ein einziges Mal vor Ort. Dabei erkannte er nicht, dass er einem betrügerischen Verwalter aufsass. Denn die Edelhölzer wurden nach und nach gefällt und abtransportiert, und zwar nicht, wie später kolportiert wurde, von Paraguayern, die das Holz über den Paraná flössten. Sondern von in der Holzindustrie tätigen ansässigen Schweizern und Deutschen. Der Verwalter erhielt von ihnen gutes Geld fürs Wegschauen.
 
@@ -136,13 +136,13 @@ Das Grundstück ging schliesslich in den Besitz von René Theler und danach an d
 
 Mit Tito Nobs hat Michel Theler seither einen ausgewiesenen Holzfachmann vor Ort.
 
-{{< figure src="../images/image28.jpeg" caption="Luftaufnahme mit dem Rio Paraná und der abgeholzten und wiederaufgeforsteten Waldfläche (erworben von Hans Theler, heute im Besitz eines von dessen Enkel Michael geleiteten Unternehmens)." >}}
+{{< figure src="../images/image28.jpeg" caption="Alberto Nobs mit Kiefersetzlingen (Bild 2022)." >}}
 
 Nobs bewirtschaftet auch eigene Waldgrundstücke. Auf dem Besitztum des Cou-Cousins hat er, wie er schreibt, alle Aufgaben rund um die Rodung und die Wiederaufforstung übernommen. Angepflanzt werden hauptsächlich Kieferarten. Für periodisches Ernten und den Holzverkauf ist er ebenfalls verantwortlich. Er und der Cou-Cousin aus der Schweiz informieren sich regelmässig gegenseitig. In einer Mail im August 2022 schrieb Michel Theler: *Ich war selber sicher schon 10x in Misiones und weiss mittlerweile ziemlich genau, wer uns damals das Holz gestohlen hat.*
 
-{{< figure src="../images/image29.jpeg" caption="Alberto Nobs mit Kiefersetzlingen (Bild 2022)." >}}
+{{< figure src="../images/image29.jpeg" caption="Marco Theler zwischen seiner Tante Katharina und ihrem Ehemann Valentin Hack im argentinischen Rosario um 1960." >}}
 
-**Der Werdegang von Juan Ramon, René und Marco (**Söhne von Hans und Alice Theler-Wiskemann)
+**Der Werdegang von Juan Ramon, René und Marco** (Söhne von Hans und Alice Theler-Wiskemann)
 
 Juan Ramon und René Theler studierten an der Hochschule und schlossen als promovierte Ökonomen ab. Ihr Vater bereitete sie auf eine Karriere in der Versicherungsbranche vor. In seine Fussstapfen trat jedoch Ende der 60er-Jahre nur René, während Juan Ramon nicht auf die berufliche Erfolgsspur des Vaters einschwenkte.
 
@@ -178,7 +178,7 @@ Beim Schlussexamen in Lausanne fiel Marco durch. Er habe sich als Versager gefü
 
 Die Eltern bezahlten ihm ein Flugticket nach Buenos Aires und liessen ihn mit einem Verwandten dorthin reisen. Das missverstand der Sohn. Weil es kein Rückreiseticket war, glaubte er, die Familie wolle ihn abschieben. *Ich schwöre Dir, lieber Cochi, dass ich niemals auch nur einen Augenblick daran gedacht habe*, beteuert der Vater rückblickend. Vielmehr hätten sie angenommen, er würde die Rückreise in Etappen machen und zum Beispiel in Guatemala seinen Bruder «Hädy» (Juan Ramons Kosename) besuchen.
 
-{{< figure src="../images/image30.jpeg" caption="Marco Theler zwischen seiner Tante Katharina und ihrem Ehemann Valentin Hack im argentinischen Rosario um 1960." >}}
+{{< figure src="../images/image30.jpeg" caption="Hochzeitsfoto von Anna Theler und Walter Herzog, 1926 in Misiones." >}}
 
 Bei der Rückkehr nach Basel waren die Eltern abwesend. Die Hausangestellte hatte ihnen Marcos Telegramm nicht ausgehändigt. In seiner Enttäuschung betrank sich Marco und verursachte daraufhin einen Autounfall, was der Vater mit einem Hausverbot quittierte. Die Mutter blieb in Kontakt mit ihm, konnte aber ihren Mann nicht zur Aussöhnung bewegen.
 
@@ -190,13 +190,13 @@ Hans Theler gibt seinem Schmerz über den Verlust des Sohnes und über seine Mit
 
 **Anna**, geboren am 18. Mai 1906. Die viertjüngste Tochter des Ehepaars Theler-Salzgeber heiratete mit 20 Walter Herzog, den Sohn von Schweizer Auswanderern. Das Ehepaar verliess Misiones und kehrte einige Zeit später in die Schweiz zurück. Luzern wurde ihr neuer Wohnort. Walter Herzog handelte schon in Argentinien und später auch in Luzern mit Gütern verschiedenster Art, auch mit Uhren. Das Paar blieb kinderlos. Ihre Sterbedaten konnten bisher nicht ermittelt werden.
 
-{{< figure src="../images/image31.jpeg" caption="Hochzeitsfoto von Anna Theler und Walter Herzog, 1926 in Misiones." >}}
+{{< figure src="../images/image31.jpeg" caption="Albert Hack (links) und Hans Macieczyk (Ehemann von Isabella Theler) um 1970." >}}
 
 **Katharina**, geboren am 25. Mai 1908, war verheiratet mit Valentin Hack. Auch sie verliessen nach der Hochzeit Misiones und lebten später in Rosario. Dort arbeitete Hack als selbständiger Herrenschneider. Katharina gebar 1940 einen Sohn, Albert (siehe nächstes Bild). Ihre Sterbedaten konnte ich bis jetzt ebenfalls nicht ausfindig machen.
 
 (Das vorletzte Bild zeigt das Paar gemeinsam mit Marco Theler.)
 
-{{< figure src="../images/image32.jpeg" caption="Albert Hack (links) und Hans Macieczyk (Ehemann von Isabella Theler) um 1970." >}}
+{{< figure src="../images/image32.jpeg" caption="Hans Theler, 1985." >}}
 
 **Luzia**, geboren am 17. Oktober 1909. Sie heiratete den ein Jahr älteren Hermann Ammann. Gemäss Alberto Nobs führte das Ehepaar in Ruiz de Montoya einen Gemischtwarenladen. Sie waren es, die den Landbesitz von Luzias Eltern verkauften.
 
