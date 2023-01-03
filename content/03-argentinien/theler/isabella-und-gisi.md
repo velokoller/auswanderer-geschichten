@@ -1,7 +1,7 @@
 +++
 title = "Das Leben als Achterbahn"
 navTitle = "Das Leben als Achterbahn"
-slug = "theler-aertztliche-versorgung"
+slug = "leben-als-achterbahn"
 date = 2022-12-04
 weight = 1
 +++
