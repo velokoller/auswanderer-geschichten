@@ -12,6 +12,8 @@ Weil die Walliser in den Anfängen mit der Viehzucht hauptsächlich für den Eig
 
 Die jahrzehntelange wirtschaftliche wie kulturelle Abkapselung manifestierte sich darin, dass viele Kolonisten (vermutlich die Mehrheit) auch nach Jahren kein Spanisch sprachen und in der Pfarreisschule bis 1900 auf Deutsch unterrichtet wurde. Die Verbundenheit mit dem Herkunftsland kam ausserdem in der Vereinskultur zum Ausdruck, z.B. im 1872 gegründeten Schiessverein. Aufwändig gefeiert wurde weiterhin der 1. August. Besonders ausgeprägt 1891, anlässlich des 600. Geburtstags der Schweiz.
 
+[Hier](https://goo.gl/maps/TQ2zt2VVzRTmWtuU9) sieht man das Luftbild des modernen San Jeronimo Norte.
+
 {{% letter %}}
 
 > San Geronimo, a 6 de Enero 1911
