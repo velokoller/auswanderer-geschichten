@@ -40,7 +40,7 @@ lesen, so dass das Thema von der Forschung übersehen zu werden droht.
 (Vor Jahrzehnten schon transkribierte meine Mutter für Historiker der
 Uni Zürich alte Handschriften.)
 
-Da mich für das Thema fasziniert und mit den alten deutschen Schriften
+Da mich das Thema fasziniert und ich mit den alten deutschen Schriften
 vertraut bin, begann ich mich an der Arbeit zu beteiligen. Es blieb
 nicht beim Transkribieren; ich schrieb kommentierende Inhaltsangaben und
 verwies wo immer möglich auf Zusammenhänge zwischen Briefkonvoluten hin.
@@ -74,9 +74,9 @@ wertvolle Quelle. Ich beschloss, von diesem Material ausgehend die
 Geschichte der Familie Theler zu verfassen. (Einer der Söhne der
 15-köpfigen Familie studierte übrigens in der Schweiz und machte in der
 Folge eine steile Karriere als Versicherungs-Direktor. Sein Sohn René
-trat in seine Fussstapfen.) Der heute über 80-jährige René Theler gab
+trat in seine Fussstapfen.) Der über 80-jährige René Theler gab
 mir die Einwilligung, die Lebensgeschichte seines Grossvaters online zu
-stellen.
+stellen.[^1]
 
 Neben dieser Lebensgeschichte werden hier weitere Texte publiziert,
 neben der Einführung in die Walliser Emigrationsgeschichte eine Auswahl
@@ -85,3 +85,5 @@ Briefe, besonders aus der Kolonie San Jerónimo Norte. Weitere Texte zum
 Thema werden folgen.
 
 April 2021, Gerold Koller
+
+[^1]:René Theler ist am 7. Juli 2022 verstorben.

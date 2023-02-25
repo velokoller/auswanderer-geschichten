@@ -14,7 +14,7 @@ Hier nun ein zweites Mal das Familienfoto aus dem Jahr 1915:
 
 {{< figure src="../images/image14.jpeg" caption="Stehend v.l.n.r.: Hans, Meinrad, Euphrosina, Maria, Regina, Mathilda, Veronika, Josef. Sitzend v.l.n.r.: Kresenzia, Anna, Mutter, Isabel, Vater, Katharina, Luzia." >}}
 
-Einleitend eine bemerkenswerte Tatsache: Alle 13 Töchter und Söhne waren verheiratet; aus ihren Ehen gingen aber nur 14 Kinder hervor, so viele wie ihre Mutter Maria Josepha selbst zur Welt gebracht hatte. Zwei Söhne und fünf Töchter blieben kinderlos.
+Einleitend eine bemerkenswerte Tatsache: Alle 13 Töchter und Söhne waren verheiratet; aus ihren Ehen gingen 20 Kinder hervor, nur sechs mehr als ihre Mutter Maria Josepha selbst zur Welt gebracht hatte. Zwei Söhne und vier Töchter blieben kinderlos.
 
 **Regina** heiratete im Januar 1915 im Alter von sechsundzwanzig den gleichaltrigen Jakob Nobs.
 
@@ -60,7 +60,7 @@ Das Ehepaar hatte drei Söhne, Ernst (1886), Hans (1888) und Jakob (1889). Die e
 
 Über den Auswanderer Jakob Nobs, dessen Sohn Juan und das Leben in Misiones -- insbesondere über die Schulbildung, die Beziehungen zur Urbevölkerung oder über Tiere im Busch -- über dieses und mehr berichtet Juan in seiner Biografie. Dazu werde ich in einem zusätzlichen Kapitel einiges ausführen.
 
-**Mathilda** wurde wie Regina und Meinrad noch im Wallis geboren (1890). Nach der Rückkehr aus Ambrosetti blieb sie dauerhaft in der Schweiz. Sie wurde Pächterin des Gasthauses in Ausserberg. Verheiratet war sie mit einem Mann namens Martin Stucky. Das Ehepaar blieb kinderlos. Neben dem Sterbedatum ist über Mathildes Leben nichts weiter bekannt. Sie verstarb einundvierzigjährig, am 24. Dezember 1931.
+**Mathilda** wurde wie Regina und Meinrad noch im Wallis geboren (1890). Nach der Rückkehr aus Ambrosetti blieb sie dauerhaft in der Schweiz. Sie wurde Pächterin des Gasthauses in Ausserberg. Verheiratet war sie mit einem Mann namens Martin Stucky. Mathilda brachte sechs Kinder zur Welt. Bei der Geburt von Otto verstarb sie – 41 -jährig – am 24. Dezember 1931. Eduard, einer der Söhne des Ehepaars, war jahrzehntelang Direktor der Weinkellereien Aarau. Sein Sohn, Ulrich Stucky, wurde nach dem Studium an der HSG sein Nachfolger. Er ging 2023 in Pension.
 
 **Veronika** (genannt Neni) wurde im April 1893 geboren. Mit ihr war Frau Theler während der Reise nach Argentinien schwanger. Auch Neni blieb nach der Rückkehr aus Ambrosetti dauerhaft in der Schweiz. Wie schon berichtet, heiratete sie 1920 Alberto Bonizzi. Das Ehepaar wohnte in Zürich, wo sie Lebensmittel aus Italien importierten. Sie taten dies überaus erfolgreich. Schon vor dem Zweiten Weltkrieg besassen sie ein Haus in Sankt Moritz. Basierend auf Alberto Bonizzis testamentarischer Verfügung errichtete Neni Bonizzi im Alter die nach ihrem Namen benannte Stiftung, in die sie ihr ganzes Vermögen einbrachte. Damit wurden von 1975 bis 2009 wissenschaftliche Forschungsprojekte im Bereich der Medizin gefördert. Von 1988 an vergab die Stiftung ausserdem alle zwei Jahre den Otto Naegeli-Preis. Die mit 200\'000 Franken dotierte Auszeichnung war eine der bedeutendsten Wissenschaftspreise der Schweiz. Ausserdem wurde mit 2.5 Mio. Franken die Bonizzi-Theler-Professur für Functional Genomics am gleichnamigen Center der Universität und der ETH Zürich finanziert.
 

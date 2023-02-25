@@ -92,7 +92,7 @@ Hans **Theler** hatte im Sommer 1922 im Kollegium Maria Hilf in Schwyz die Matur
 
 {{% /aside %}}
 
-Nicht alle fanden sich als Farmer gleichermassen zurecht. Über \... Nobs schreibt der Schwiegervater, er sei *ein mustergültiger Landwirt in Viehzucht, Milchwirtschaft und Bienenzucht* geworden. Theophil Werlen dagegen, heisst es, habe sein Land verkauft und von Schwager Krumkamp dessen Chacra[^6] und Magazin im Dorf gekauft. (Wie er für die Familie fortan den Lebensunterhalt verdiente, erfahren wir nicht.) Krumkamp seinerseits kehrte mit Kresenzia nach Puerto Rico zurück, wo sie eine eigene Pension führten.[^7] Theler, seine Frau und die fünf Töchter Maria, Anna, Katharina, Lucia und Isabel blieben auf ihrer Farm. Sie betrieben auch Viehzucht, Milchwirtschaft und Schweinemast, im Zentrum stand jedoch der Jerba-Anbau. Die Pflanzung umfasste 12'000 Jerba-Sträucher. Der Hauptgrund, warum Argentinien damals Rodungs-Kolonisten an den Rio Paraná holte, war ja die Förderung des Jerba Mate-Anbaus.
+Nicht alle fanden sich als Farmer gleichermassen zurecht. Über Jakob Nobs schreibt der Schwiegervater, er sei *ein mustergültiger Landwirt in Viehzucht, Milchwirtschaft und Bienenzucht* geworden. Theophil Werlen dagegen, heisst es, habe sein Land verkauft und von Schwager Krumkamp dessen Chacra[^6] und Magazin im Dorf gekauft. (Wie er für die Familie fortan den Lebensunterhalt verdiente, erfahren wir nicht.) Krumkamp seinerseits kehrte mit Kresenzia nach Puerto Rico zurück, wo sie eine eigene Pension führten.[^7] Theler, seine Frau und die fünf Töchter Maria, Anna, Katharina, Lucia und Isabel blieben auf ihrer Farm. Sie betrieben auch Viehzucht, Milchwirtschaft und Schweinemast, im Zentrum stand jedoch der Jerba-Anbau. Die Pflanzung umfasste 12'000 Jerba-Sträucher. Der Hauptgrund, warum Argentinien damals Rodungs-Kolonisten an den Rio Paraná holte, war ja die Förderung des Jerba Mate-Anbaus.
 
 {{% aside %}}
 
@@ -122,6 +122,6 @@ Wie aufwändig es war, aus Urwaldboden ertragreiches Kulturland zu machen, schil
 
 [^6]: Vermutlich war es eine Chacra auf dem sog. *Stadtplatz*, d.h. nicht eine Fläche, die landwirtschaftlich nutzen wollte.
 
-[^7]: Klaus Anderegg, der in Argentinien über Walliser Auswanderer forschte, traf in den 1980er-Jahren in der Pension in Puerto Rico noch auf die hochbetagte Kresenzia Krumkamp. \[bei Klaus genauer abklären\]
+[^7]: Klaus Anderegg, der in Argentinien über Walliser Auswanderer forschte, traf in den 1980er-Jahren in der Pension in Puerto Rico noch auf die hochbetagte Kresenzia Krumkamp. 
 
 [^8]: Theler benutzt die Ausdrücke *Gramo* und *Portrero* zur Bezeichnung von Weideland, die Komposita *Gramopflanzen* bzw*. -ranken hingegen* für die Einzelpflanzen, sozusagen für die Setz- oder Stecklinge. In dieser Form finden sich die Ausdrücke in Spanisch-Wörterbüchern nicht. Und was das Wort *Portrero* angeht, so bezeichnet er damit an anderen Stellen Weidezäune oder Teile davon.
