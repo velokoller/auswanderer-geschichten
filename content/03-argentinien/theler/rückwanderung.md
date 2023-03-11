@@ -48,7 +48,7 @@ In gewissem Sinn war und blieb Johann Christian Theler ein Abenteurer, zumindest
 
 [^3]: Im Vergleich zu Thelers Buchhaltung, sprich Kalender, war das ein überhöhter Pachtzins. Die ausgewiesenen Reingewinne waren nie so hoch. Wie sollte ein Pächter diese Summe über die eigenen Lebenshaltungskosten hinaus erwirtschaften?
 
-[^4]: Zu diesem Zeitpunkt hatte Frau Theler 13 Geburten hinter sich (eine 14. Sollte noch folgen). Der noch im Wallis geborene Sohn Meinrad starb, 5-jährig, im Februar 1897 nach 16-tägiger Krankheit. Theler schreibt, die Krankheit werde *hipoterischer Krup* genannt. Im Juni des folgenden Jahres wurde der nächste Sohn geboren, den sie wiederum auf den Namen Meinrad tauften.
+[^4]: Zu diesem Zeitpunkt hatte Frau Theler 13 Geburten hinter sich (eine 14. sollte noch folgen). Der noch im Wallis geborene Sohn Meinrad starb, 5-jährig, im Februar 1897 nach 16-tägiger Krankheit. Theler schreibt, die Krankheit werde *hipoterischer Krup* genannt. Im Juni des folgenden Jahres wurde der nächste Sohn geboren, den sie wiederum auf den Namen Meinrad tauften.
 
 [^5]: Gemäss der seit 1897 dokumentierten Viehzählung (damals 55 Stück Rindvieh und 5 Pferde) besassen die Thelers im Jahr 1909 283 Stück Rindvieh. Ein Jahr zuvor gehörten ihnen 56 Pferde. Auch die Tierverluste sind verzeichnet. Die Zahl *verlorener Tier*e bewegte sich zwischen 2 (1898) und 68 Tieren, nämlich 42 Kälber, 9 Kühe, 9 Jungstiere, 8 Pferde (1909). Gesamtverlust in all den Jahren: 231 Tiere im Wert von 4000 Pesos.
 
