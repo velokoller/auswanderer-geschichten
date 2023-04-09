@@ -3,7 +3,7 @@ title = "Zweite Rückwanderung in die Schweiz"
 navTitle = "Zweite Rückwanderung"
 slug = "theler-zweite-rueckwanderung"
 date = 2021-06-16
-weight = 3
+weight = 40
 +++
 
 Obwohl er nach neun Jahren der Kolonisation in Cuña-Pirú eine positive Bilanz ziehen konnte, gebraucht er in den Aufzeichnungen kurz danach zum zweiten Mal fast dieselbe Formulierung: *So wurstelten wir 9 Jahre lang, bis ich wieder den Löffel fallen liess und davonlief.* Er verwendet denselben pejorativen Ausdruck wie seinerzeit für die Arbeit als Ackerbauer und Viehzüchter in Ambrosetti. Der Jerba-Anbau, die Viehzucht und die Milchwirtschaft entwickelten sich zwar durchaus erfreulich, aber der Arbeitsaufwand wurde zur zunehmend grösseren Belastung. Nacheinander verliessen vier der fünf Töchter Cuña-Pirú. Von Maria, der Viertältesten, schreibt ihr Vater, sie sei *weggelaufen*. Sie war wenig über 30 und hatte vermutlich genug davon, täglich von morgens bis abends neben dem nimmermüden Vater zu schuften. In Cuña-Pirú hatte sie kaum eine Zukunft. Im Wallis war sie mit dem Gastgewerbe vertraut geworden. Wohl deshalb nahm sie im 80 km entfernten Candelaria Wohnsitz[^1], wo sie in der Folge eine Pension führte.

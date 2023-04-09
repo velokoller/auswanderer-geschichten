@@ -3,7 +3,7 @@ title = "Lebensgeschichten der 13 Töchter und Söhne und deren Nachkommen"
 navTitle = "Nachkommen"
 slug = "theler-nachkommen"
 date = 2021-09-03
-weight = 2
+weight = 35
 +++
 
 Die Geschichte der jüngsten Tochter Isabella (sie wurde fünf Jahre nach der zweitjüngsten geboren) und ihrer beiden noch lebenden Töchter Irene und Gisela ist gut dokumentiert und vermittelt erstaunliche Einblicke weit über das persönliche Leben hinaus. Ich werde deshalb in einem gesonderten Kapitel darüber berichten. Gisela Macieczyk-Theler (GM) und ihre Schwester leben in Buenos Aires. GM stellte mir neben ihrer in Buchform veröffentlichten Biografie zahlreiche Fotos und weiteres wertvolles Quellenmaterial zur Verfügung. Ausserdem erfuhren wir während mehreren Skype-Kontakten noch viel mehr aus ihrem bewegten Leben.)

@@ -3,7 +3,7 @@ title = "Zweite Auswanderung"
 navTitle = "Zweite Auswanderung"
 slug = "theler-zweite-auswanderung"
 date = 2021-06-16
-weight = 4
+weight = 45
 +++
 
 Im Frühjahr 1918 übernahm Theler im Oberwallis ein paar der Landwirtschaft nahestehende Nebenerwerbstätigkeiten, z.B. das Bienenstand-Inspektorat. Hauptbeschäftigt war er jedoch als Verwalter der Oberwalliser Obst- und Gemüse-Verwertungsgenossenschaft in Brig. Er tat das so erfolgreich, dass nach einem Jahr nicht nur das vom Vorgänger hinterlassene Defizit gedeckt war, sondern auch der Zins an die Aktionäre ausbezahlt war und sogar *etwelches für die Reservekasse* übrigblieb. Selber erhielt er als Gratifikation 600 Franken. Paradoxerweise verhinderten zu ebendieser Zeit Geldsorgen, dass er das Amt *mit gutem Optimismus* weiterführte. Wie das? Nach wie vor lastete auf dem Haus in Naters die Hypothek von 40'000 Franken. Mit dem Verfalldatum 1. Juli des kommenden Jahres. Die Hypothek zu erneuern -- heute ein alltäglicher Vorgang --, scheiterte an einem fehlenden Bürgen. Die Bank verlangte zwei Bürgen. Die Brüder Lukas und Paul waren bereit, dem Bruder diesen Dienst zu erweisen. Da Lukas bereits für seinen Bruder Albert bürgte, konnte die Bank ihn den Statuten gemäss nicht akzeptieren. Einen Bürgen ausserhalb der Familie zu finden, schien Theler unmöglich, so dass er sich entschloss, *nach Amerika* zu reisen, um dort ihre Liegenschaft zu verkaufen.

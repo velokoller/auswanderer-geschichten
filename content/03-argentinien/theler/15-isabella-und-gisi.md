@@ -3,7 +3,7 @@ title = "Das Leben als Achterbahn"
 navTitle = "Das Leben als Achterbahn"
 slug = "leben-als-achterbahn"
 date = 2022-12-04
-weight = 1
+weight = 30
 +++
 
 Die Geschichten von Isabella Theler und deren Nachkommen (1914 bis 2022)
@@ -234,24 +234,68 @@ Im Vergleich zum verpachteten Hauptteil von Sauce Chico verursachen die parkähn
 
 **Irene**
 
-{{< figure src="../images/isabella-und-gisi/image15.jpeg" caption="Gisi verabschiedet sich von Irene vor deren Flug nach Spanien (August 2022)." >}}
+{{< figure src="../images/isabella-und-gisi/image15.jpeg" caption="Gisi verabschiedet sich von Irene, die nach Spanien fliegt, um ihren Sohn zu besuchen (August 2022)." >}}
 
-Die folgenden Skizzen und Bilder vermitteln einen Eindruck von der Tätigkeit von Gisis Schwester Irene.
+Irene Walmsley, Jahrgang 1941, hat bis kurz vor ihrem 80. Lebensjahr als Landschaftsarchitektin gearbeitet. Das tat sie äusserst erfolgreich, plante und gestaltete sie doch Parks und Gärten für Hotels, Estancias, Country Clubs sowie für Villenbesitzer. Auch ein Friedhof ist Teil ihres Werkkatalogs.
+
+Nach der Heirat 1964 hatte sie mit ihrem Mann Brian in England, Südafrika und Venezuela gelebt -- er arbeitete für eine Firma, die Wasserkraftwerke baute. 1969 kehrte das Paar mit Jan, dem ersten Kind, nach Buenos Aires zurück. Wenig später kam noch ein Mädchen zur Welt, Gelly -- genannt nach Gisela, seiner Tante.
+
+Der Falklandkrieg 1982 wurde für die Familie zum existenzbedrohenden Ereignis. Brian Walmsley verlor seine Stelle. Als Engländer war er in der argentinischen Firma nicht mehr willkommen. In der Folge übernahm seine Frau die Erwerbsarbeit. Anfangs verschönerte sie Schalterhallen und Empfangsräume von Banken mit Pflanzen. Das hiess, in aller Morgenfrühe mit dem Auto zu den Händlern zu fahren, dort die notwendige Menge Blumen und allerhand Schnittgrün einzukaufen und danach bei den Firmen stimmungsvolle florale Arrangements zu kreieren. Vor Schalteröffnung musste ihre Arbeit getan sein. Damit erwarb Irene Walmsley, die Enkelin des Ehepaars Theler-Salzgeber, in kurzer Zeit ein beachtliches Renommee. Das half ihr, das Tätigkeitsgebiet nach draussen, auf die Gestaltung von Grünanlagen auszuweiten. Auf die Frage, wie ihr das als Autodidaktin gelungen sei, antwortet sie: *En el momento justo en lugar correcto* (sie sei jeweils zum richtigen Zeitpunkt am richtigen Ort gewesen). Mitentscheidend dürfte ihr (bisher weitgehend brachliegendes) künstlerisch-gestalterisches Potenzial gewesen sein. Dieses Talent kam nun zur Entfaltung. Architekten, Bauherren und Verantwortliche von öffentlichem und halböffentlichem Gelände wurden auf sie aufmerksam. Werbung brauchte sie nicht zu machen; es lief nahezu alles über Mund-zu-Mund-Propaganda. Aus der Innenraumgestalterin war die Paisajista Irene Walmsley geworden. Auch ihr Mann Brian hatte wieder einen Job, er war ab jetzt zuständig für die Büroarbeit und die Buchhaltung seiner Frau.
+
+{{< figure src="../images/irene/image1.jpg" >}}
+
+Irene Walmsley, Foto um 2002.
 
 <div style="display: flex; flex-direction: row; width: 100%; margin-bottom: 2rem;">
-    <img style="width: 50%" src="../images/isabella-und-gisi/image16.jpeg" />
-    <img style="width: 50%" src="../images/isabella-und-gisi/image17.jpeg" />
+    <img style="width: 50%" src="../images/irene/image2.jpeg" />
+    <img style="width: 50%" src="../images/irene/image3.jpeg" />
 </div>
 
+{{< figure src="../images/irene/image4.jpeg" caption="Skizzen sowie ein Gestaltungs- und Bepflanzungsplan." >}}
 
-<div style="display: flex; flex-direction: row; width: 100%; margin-bottom: 2rem;">
-    <img style="width: 50%" src="../images/isabella-und-gisi/image18.jpeg" />
-    <img style="width: 50%" src="../images/isabella-und-gisi/image19.jpeg" />
-</div>
+Seit sie aufwändige Projekte realisierte, brauchte sie Arbeitskräfte fürs Handwerkliche, für die eigentlichen Pflanzarbeiten ebenso wie für Erdarbeiten, fürs Anlegen von Wegen und dergleichen. Da sich die Einsatzsorte irgendwo in Argentinien und sogar in Uruguay befinden konnten, mussten die Leute dafür jeweils vor Ort engagiert werden. Eine Person jedoch wurde zu Irene Walmsleys festem Mitarbeiter, der Agronom Julio Castelluci. Er stellte die Leute ein und organisierte die Arbeiten, und er war Rat- und Ideengeber, was die topografischen Möglichkeiten oder die Auswahl geeigneter Pflanzen anging.[^14] Darum stand jeweils auch sein Name in den Planunterlagen. Neben ihrem Namen und der Berufsbezeichnung stand da: «Ing. Agr. Julio Castelluci», präzisiert durch den Ausdruck «Agropecuaria Panamericana Plantas» (Fachmann für panamerikanische landwirtschaftliche Pflanzen).
 
-<img src="../images/isabella-und-gisi/image20.jpeg" />
+Beim Umsetzen der Pläne war Irene stets am Platz. Man erfährt, dass kaum je ein Baum und ein Strauch eingepflanzt worden sei ohne ihr Dabeisein.
 
-Auch Irene lebt mit ihrem Mann in Buenos Aires. Sie arbeitet auch im Alter von über 80 noch immer als Landschaftsarchitektin. Hauptsächlich gestaltet sie Gärten und Parks für Hotels und für Besitzer grosser Anwesen. Bei der Umsetzung ihrer Pläne konnte es vorkommen, dass Gewächse wie Sträucher, Büsche und kleine Bäume, von so weit her herangeschafft werden mussten, dass es dafür klimatisierte Container brauchte. In einem Fall war es ein Transport vom Chaco im Norden Argentiniens bis nach Bariloche am Fusse der Anden. Dort wurden die Gewächse in einer Halle ähnlich der Masoala-Halle im Zoo Zürich eingepflanzt.
+Einer der spektakulärsten Aufträge für Walmsley und Castelluci war die Gestaltung der Estanzia am Lago Escondido in der grünen Berglandschaft der südlichen Anden. Dort hatte der britische Milliardär Joe Lewis ein Gelände, halb so gross wie der Kanton Zug, gekauft und liess diverse Bauten, darunter ein luxuriöses Herrenhaus, erstellen.[^15] Die Umgebung wollte er in eine Parklandschaft umwandeln lassen. Auch ein tropischer Garten sollte gebaut werden. Letzteres erschien aus klimatischen Gründen zunächst utopisch. Hier, unweit von Bariloche, einem der bedeutendsten Wintersportorte Südamerikas, herrscht ein ähnliches Klima wie bei uns in den Alpen. Im südlichen Sommer (November bis März) steigen die Temperaturen auf über 20 Grad, zwischen Mai und September sinken sie oft deutlich unter null. Wie sollte hier tropische Flora gedeihen?
+
+{{< figure src="../images/irene/image5.jpg" caption="Das Herrenhaus am Lago Escondido." >}}
+
+{{< figure src="../images/irene/image6.jpg" caption="Blick vom Haus auf den Lagos Escondido." >}}
+
+Irene Walmsley und Julio Castelluci setzten die Pläne schliesslich in die Tat um. Eine natürliche mächtige Grotte nützend und diese durch Anbauten erweiternd, schufen sie umgeben von schneebedeckten Bergen ein wunderbares Regenwald-Ökosystem. Das war möglich, weil Kosten kaum eine Rolle spielten. (Nahezu gleichzeitig entstand übrigens die Halle mit dem Masoala-Regenwald im Zürcher Zoo.)
+
+Die Gewächse, die man hierher schaffen wollte, gibt es zwar in Argentinien, im tropisch bis subtropischen Teil des Chaco im Norden des Landes, an den Flüssen [Río Paraná](https://de.wikipedia.org/wiki/R%C3%ADo_Paran%C3%A1) und [Río Paraguay](https://de.wikipedia.org/wiki/R%C3%ADo_Paraguay). Aber vom Chaco bis zum Lago Escondido in Patagonien sind es mehr als 2\'000 km. Um Pflanzen bis zur Grösse ausgewachsener Palmen zu transportieren, brauchte es Sattelschlepper und für vieles auch klimatisierte Container. Auch diese Herausforderung meisterten die beiden. Die Arbeiten begannen 2002 und dauerten zwei Jahre.
+
+Als sie sich für das landschaftliche Grossprojekt bewarben, skizzierte Frau Walmsley ihre Vorstellungen, ergänzte sie mit Plänen und illustrierte das Ganze mit Fotos. An den Schluss setzte sie eine klare Botschaft:
+
+*Entiendo sus necesidades / Tengo la experiencia / Tengo las ganas / Estoy lista para encarar el desafío!*
+
+was sinngemäss heisst:
+
+*Ich verstehe Ihre Bedürfnisse / ich habe die Erfahrung / ich bin in der Stimmung / ich bin bereit, mich der Herausforderung zu stellen!*
+
+Das war sowohl eine klare Selbstoffenbarungs-Botschaft als auch ein unmissverständlicher Appell an Joe Lewis. Zu diesem Zeitpunkt war ja noch offen, ob sie den Zuschlag erhalten würde.
+
+Das zu gestaltende Gelände umfasst 35 Hektar. In einer ersten Annäherung sah Frau Walmsley vor, auf 20 Hektar krautige Luzerne anzubauen, um so eine Wiese mit «schöner bläulichen Blüte» zu bekommen. Auf 10 Hektar wollte sie Walnuss- und Kastanienbäume pflanzen, einerseits als Schattenspender, andererseits als Früchtelieferanten. Vor die restlichen für Kern- und Steinobstbäume bestimmten 5 Hektar sollten Pappeln eine Art Vorhang bilden. Gedacht als Windschutz, jedoch auch als «Unterschlupf für die Fauna des Ortes». Ergänzend hielt sie fest, der Standort jedes Baumes «sollte eine landschaftliche Vision bieten»; die Produktionsaspekte seien dabei zweitrangig. Auch die Eingangswege wollte sie beidseitig von Pappeln flankieren lassen, nicht linear angeordnet, sondern der Topografie angepasst. Wo notwendig würden Sprinkleranlagen die Bewässerung sicherstellen.
+
+Zwar liessen sich schlussendlich nicht alle Pläne umsetzen, aber das Ergebnis ist eine traumhaft schöne Parklandschaft. Einen viel grösseren Aufwand erforderte allerdings die Anlage des tropischen Gartens. Die folgenden Fotos illustrieren den Entstehungsprozess und vermitteln einen kleinen Einblick in den aus dem Nichts geschaffenen Regenwald.
+
+{{< figure src="../images/irene/image7.jpg" caption="Drei von den Palmen aus dem Chaco (mit eingepackten Wurzelballen)." >}}
+
+{{< figure src="../images/irene/image8.jpg" >}}
+
+{{< figure src="../images/irene/image8.jpg" >}}
+
+{{< figure src="../images/irene/image9.jpg" >}}
+
+{{< figure src="../images/irene/image10.jpg" >}}
+
+{{< figure src="../images/irene/image11.jpg" >}}
+
+{{< figure src="../images/irene/image12.jpg" >}}
+
+{{< figure src="../images/irene/image13.jpg" caption="Der Park wird als privates Wildschutzgebiet bezeichnet. Leider hat nur, wer hier wohnt, Zutritt." >}}
 
 [^1]: Siehe 1. Bild im Kapitel «Zweite Rückwanderung».
 
@@ -273,8 +317,12 @@ Auch Irene lebt mit ihrem Mann in Buenos Aires. Sie arbeitet auch im Alter von �
 
 [^10]: Es war nicht derselbe Theler-Stamm wie der des späteren Schwiegersohns Johann Christian.
 
-[^11]: Tigre liegt am Rand des Ballungsraums von B.A. und grenzt an das Delta des [Río Paraná](https://de.wikipedia.org/wiki/R%C3%ADo_Paran%C3%A1). Es ist ein beliebtes Naherholungsgebiet. Der Name geht auf ein Missverständnis zurück. Jaguare wurden ursprünglich für Tiger gehalten und gaben so der Stadt und dem Delta ihren Namen.
+[^11]: Tigre liegt am Rand des Ballungsraums von B.A. und grenzt an das Delta des [Río Paraná](https://de.wikipedia.org/wiki/R%C3%ADo_Paran%C3%A1). Es ist ein beliebtes Naherholungsgebiet. Der Name geht auf ein Missverständnis zurück. Jaguare wurden ursprünglich für Tiger gehalten und gaben so der Stadt und dem Delta ihren Namen.
 
-[^12]: Die Stadt San Juan mit etwa 120\'000 Einwohnern befindet sich 1\'200 km nordwestlich von Buenos Aires und 170 km nördlich von Mendoza. Umgeben ist die Oasenstadt von einer steppenartigen Landschaft mit Felswüsten und Buschwald. Gut zwei Drittel der landwirtschaftlich nutzbaren Fläche ist Rebbaugebiet. San Juan -- die älteste Stadt Argentiniens, 1561 gegründet -- ist nach Mendoza das zweitwichtigste Weinbaugebiet des Landes. An der in den 1970er-Jahren gegründeten Universität sind etwa 15\'000 Studierende eingeschrieben.
+[^12]: Die Stadt San Juan mit etwa 120\'000 Einwohnern befindet sich 1\'200 km nordwestlich von Buenos Aires und 170 km nördlich von Mendoza. Umgeben ist die Oasenstadt von einer steppenartigen Landschaft mit Felswüsten und Buschwald. Gut zwei Drittel der landwirtschaftlich nutzbaren Fläche ist Rebbaugebiet. San Juan -- die älteste Stadt Argentiniens, 1561 gegründet -- ist nach Mendoza das zweitwichtigste Weinbaugebiet des Landes. An der in den 1970er-Jahren gegründeten Universität sind etwa 15'000 Studierende eingeschrieben.
 
-[^13]: Bilder und You Tube-Videos finden sich online unter «Arelys de Venezuela».
+[^13]: Bilder und YouTube-Videos finden sich online unter «Arelys de Venezuela».
+
+[^14]: Im fortgeschrittenen Alter an Alzheimer erkrankt, ist er inzwischen verstorben.
+
+[^15]: Über Joe Lewis, den Landkauf und die bis heute andauernden politischen Folgen erfährt man mehr im <a href="{{< relref "16-joe-lewis" >}}">folgenden Text</a>. 
