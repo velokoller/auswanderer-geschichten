@@ -285,8 +285,6 @@ Zwar liessen sich schlussendlich nicht alle Pläne umsetzen, aber das Ergebnis i
 
 {{< figure src="../images/irene/image8.jpg" >}}
 
-{{< figure src="../images/irene/image8.jpg" >}}
-
 {{< figure src="../images/irene/image9.jpg" >}}
 
 {{< figure src="../images/irene/image10.jpg" >}}
