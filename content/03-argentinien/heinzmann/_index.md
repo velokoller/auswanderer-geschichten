@@ -119,38 +119,47 @@ Bevor er in diesem Gestus fortfährt, übermittelt er Neujahrsbotschaften, insbe
 
 Der Verzweiflung (oder Larmoyanz?) gibt GH danach in Gedichtversen Ausdruck:
 
+<style>
+    .poem-container {
+        display: flex;
+        gap: 1rem;
+    }
+    .poem-container div {
+        width: 50%; 
+        height: auto; 
+    }
+</style>
+
 {{% letter %}}
-
-Nach der Heimat möchte ich wieder Nach der Heimat möcht' ich wieder
-
-In der Heimat möchte ich sein in der Heimat möcht' ich sein,
-
-Strahlte mir doch einst golden strahlt mir doch noch eins so golden
-
-Dort der liebe Sonnen Schein dort der lieben Sonne Schein;
-
-In der Heimat wohnt die Liebe in der Heimat wohnt die Liebe,
-
- in der Heimat weilt die Lust,
-
-Ach so bange ach so bange und so bange, ach so bange,
-
-klagt das Herz hier in der Brust klopft das Herz mir in der Brust.
-
-Süsse Heimath. Süsse Heimat!
-
+<div class="poem-container">
+    <div>
+Nach der Heimat möchte ich wieder <br/>
+In der Heimat möchte ich sein <br/>
+Strahlte mir doch einst golden <br/>
+Dort der liebe Sonnen Schein <br/>
+In der Heimat wohnt die Liebe<br/>
+Ach so bange ach so bange<br/>
+klagt das Herz hier in der Brust<br/>
+Süsse Heimath.<br/><br/>
+Warum ist es’ das Sehnen<br/>
+Nach der Heimat trautem Herd<br/>
+Das mit süsser stiller Schwermuth<br/>
+Mir das arme Herz beschwerth<br/>
 \[...\]
-
-Warum ist es' das Sehnen
-
-Nach der Heimat trautem Herd
-
-Das mit süsser stiller Schwermuth
-
-Mir das arme Herz beschwerth
-
-\[...\]
-
+    </div>
+    <div>
+        Nach der Heimat möcht’ ich wieder<br/>
+        in der Heimat möcht’ ich sein,<br/>
+        strahlt mir doch noch eins so golden<br/>
+        dort der lieben Sonne Schein;<br/>
+        in der Heimat wohnt die Liebe,<br/>
+        in der Heimat weilt die Lust,<br/>
+        und so bange, ach so bange,<br/>
+        klopft das Herz mir in der Brust.<br/>
+        Süsse Heimat!<br/>
+        \[...\]
+    </div>
+</div>
 {{% /letter %}}
 
 Das Original (rechts die erste Strophe) des deutschen Volkslieds stammt vom Dresdener Autor Karl Beils. Geschrieben 1828. Es besteht aus fünf neunzeiligen Strophen. Das Liedhafte kommt in zahlreichen refrainartigen Versen zum Ausdruck. Heinzmann führt sie nicht alle auf, referiert aber weitere Zeilen. Alle nahe am Original.
@@ -276,7 +285,7 @@ Er fragt noch, ob sie alle gesund seien, und fährt fort: «Hier in Amerika geht
 Das war möglicherweise der letzte Brief des damals 60-Jährigen an seinen Bruder. Es ergaben sich wohl keine weiteren Gelegenheiten, ihm sein «Dasein schildern zu können».
 
 <style>
-    .image-container {
+    .image-container {Nach der Heimat möc
         display: flex;
         gap: 1rem;
     }
