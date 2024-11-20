@@ -1,6 +1,6 @@
 +++
 title = "«... ich hab das Greste verlangen nach einem Brif»"
-navTitle = "Heinzmann"
+navTitle = "Familie Heinzmann"
 date = 2024-03-24
 weight = 7
 +++
