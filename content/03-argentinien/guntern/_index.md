@@ -36,7 +36,9 @@ Auf der winterlichen Schlittenfahrt von Reckingen nach Brig wurde die sechsköpf
 
 ### Die Briefe
 
-**Keine *Mistschifere* mehr auf dem Buckel (**Brief vom Juli 1897)
+**Keine *Mistschifere* mehr auf dem Buckel** 
+
+(Brief vom Juli 1897)
 
 Der erste der noch vorhandenen Briefe trägt die Datumszeile *San Geronimo. Julio 17 de 1897*[^1] und beginnt mit der Anrede *Teuerste Schwester, lieber Schwager, liebe Brüder und Schwäger!*[^2] Die Reise vom Wallis nach Argentinien wird im Text nicht thematisiert, was den Schluss zulässt, dass die Korrespondenz mit Reckingen viel früher begonnen hat. Der erste etwas längere Teil des Briefes stammt von Franz, der zweite ist von Julia verfasst. Guntern schreibt, im Glauben, *dass Ihr Euch mehr freut, von ihr Briefe zu erhalten als von mir*, habe er eigentlich Julia schreiben lassen wollen, aber weil ihr das *Hausgeschäft* *viel zu schaffen* mache, müssten sie sich mit seinen *letras* zufriedengeben. Das ist vermutlich mehr als blosse Floskel.
 
