@@ -316,7 +316,7 @@ Allerdings war Cäsar Eggel wie seinem Vater kein hohes Alter beschieden; er ver
     <img src="./images/eggel-22.png"/>
 </div>
 
-Margreth Eggel-Werner auf ihrem Andachtsbild († 1965).
+Cäsar († 1935) und Margreth Eggel-Werner († 1965).
 
 {{< figure src="./images/eggel-23.jpg" caption="«Gasthaus Blatten» - in den 1930er-Jahren von Paul Eggels Sohn Cäsar erbaut." >}}
 
